@@ -1,0 +1,23 @@
+.Home{
+    color: rgb(14, 13, 13);
+    font-family: Cooper;
+    width: 20rem;
+    height: 35rem;
+  /**  background-color: rgb(104, 111, 118);**/
+    cursor: pointer;
+    
+  }
+  .unordered{
+      list-style-type: none;
+  }
+  .list-items{
+      margin-top: 6rem;
+      margin-bottom: 6rem;
+  }
+  .bar{
+      width: 100%;
+      background-color:transparent++++++;
+      height: 80px;
+      box-shadow: 3px 3px 4px black;
+      line-height: 80px;
+  }
